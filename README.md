@@ -1,5 +1,5 @@
 Authors:
-Mohammad Sarsour, Abyan Asad, Mehnaz Tasnim
+Mohammad Sarsour(ksn7fj), Abyan Asad, Mehnaz Tasnim
 
 Purpose:
 In this assignment, you will encounter a Democratic process in the United States called Apportionment. Apportionment refers to the process of dividing up
